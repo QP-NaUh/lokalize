@@ -1,6 +1,9 @@
 #Lokalize
+
 ![lokalize](/images/LogoKlein.PNG)
+
 ##Idee
+
 Die Corona Krise trifft unsere Lieblingsplätze hart: Cafés, Kneipen, Discotheken, Museen.
 Viele Besitzer sehen sich durch die aktuelle Situation vor dem Aus.
 Sie stehen vor dem Problem, dass ihre Einnahmen fehlen, aber die Ausgaben bleiben.
