@@ -23,6 +23,6 @@ Und für jeden Drink spendet ihr einen kleinen Teil und haltet somit Euren Liebl
 Wir wollen Lokale dabei unterstützen die Krise zu überstehen.
 Indem wir eine Plattform schaffen, in der Wirte und Lokal-Betreiber einen virtuellen Raum für ihre Kunden erschaffen können – der digitale Zwilling des Lokals.
 Die Räume sollen folgende Möglichkeiten schaffen:
-•	Ein virtueller Treffpunkt mit Chat und Videofunktionalität
-•	Spenden für betroffene Wirte und Lokal-Besitzer sammeln
-•	Zum Alltag „zurückfinden“
+-	Ein virtueller Treffpunkt mit Chat und Videofunktionalität
+-	Spenden für betroffene Wirte und Lokal-Besitzer sammeln
+-	Zum Alltag „zurückfinden“
