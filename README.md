@@ -1,8 +1,8 @@
-#Lokalize
+# Lokalize
 
 ![lokalize](/images/LogoKlein.PNG)
 
-##Idee
+## Idee
 
 Die Corona Krise trifft unsere Lieblingsplätze hart: Cafés, Kneipen, Discotheken, Museen.
 Viele Besitzer sehen sich durch die aktuelle Situation vor dem Aus.
@@ -18,7 +18,7 @@ Und für jeden Drink spendet ihr einen kleinen Teil und haltet somit Euren Liebl
 
 ![concept](/images/Concept.jpg)
 
-##Ziel
+## Ziel
 
 Wir wollen Lokale dabei unterstützen die Krise zu überstehen.
 Indem wir eine Plattform schaffen, in der Wirte und Lokal-Betreiber einen virtuellen Raum für ihre Kunden erschaffen können – der digitale Zwilling des Lokals.
