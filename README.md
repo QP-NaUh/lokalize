@@ -1,2 +1,3 @@
-![lokalize](/images/LogoKlein.PNG)#Lokalize
+![lokalize](/images/LogoKlein.PNG)
+#Lokalize
 Hilf Deinem Lieblingsplatz / Deinem Lokal
